@@ -1,0 +1,55 @@
+\contentsline {section}{\numberline {1}课程设计概述}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}设计目的}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}设计内容}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}参考资料}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}设计一：单级倒立摆系统}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}任务概述}{2}{subsection.2.1}%
+\contentsline {paragraph}{系统模型建立}{2}{section*.2}%
+\contentsline {paragraph}{开环系统分析}{2}{section*.3}%
+\contentsline {paragraph}{系统设计及验证}{2}{section*.4}%
+\contentsline {subsection}{\numberline {2.2}系统模型}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}情境假设}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}机理非线性模型的建立}{3}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}简化线性模型的建立}{4}{subsubsection.2.2.3}%
+\contentsline {paragraph}{状态空间模型}{4}{section*.7}%
+\contentsline {paragraph}{传递函数模型}{4}{section*.8}%
+\contentsline {subsection}{\numberline {2.3}系统分析}{4}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}系统响应分析}{4}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}系统稳定性与性能分析}{6}{subsubsection.2.3.2}%
+\contentsline {paragraph}{基于传递函数模型的稳定性分析}{6}{section*.14}%
+\contentsline {paragraph}{基于状态空间模型的稳定性分析}{7}{section*.17}%
+\contentsline {paragraph}{性能分析}{8}{section*.18}%
+\contentsline {subsubsection}{\numberline {2.3.3}能控性与能观性分析}{8}{subsubsection.2.3.3}%
+\contentsline {paragraph}{秩判据}{8}{section*.20}%
+\contentsline {paragraph}{约旦标准形}{8}{section*.21}%
+\contentsline {subsection}{\numberline {2.4}系统设计与验证}{9}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}任务1：摆杆出现微小偏差后复位（镇定控制器）}{9}{subsubsection.2.4.1}%
+\contentsline {paragraph}{状态反馈（SF）}{9}{section*.22}%
+\contentsline {paragraph}{基于状态观测器的状态反馈（OSF）}{10}{section*.27}%
+\contentsline {subsubsection}{\numberline {2.4.2}任务2：实现摆杆从A点到B点（跟踪阶跃位移信号）}{12}{subsubsection.2.4.2}%
+\contentsline {paragraph}{基于原状态反馈的单位输出反馈控制}{12}{section*.32}%
+\contentsline {paragraph}{基于原状态反馈的带积分校正的输出反馈控制}{14}{section*.37}%
+\contentsline {paragraph}{基于原状态反馈的带积分校正的输出反馈控制}{17}{section*.42}%
+\contentsline {paragraph}{基于状态反馈的PID控制器}{18}{section*.46}%
+\contentsline {section}{\numberline {3}设计二：蔡氏混沌电路}{19}{section.3}%
+\contentsline {subsection}{\numberline {3.1}任务概述}{19}{subsection.3.1}%
+\contentsline {paragraph}{系统模型建立}{19}{section*.51}%
+\contentsline {paragraph}{混沌现象分析}{19}{section*.52}%
+\contentsline {paragraph}{同构主从系统同步设计与验证}{19}{section*.53}%
+\contentsline {paragraph}{保密通信应用}{20}{section*.54}%
+\contentsline {subsection}{\numberline {3.2}模型与分析}{20}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}系统模型建立}{20}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}系统响应分析}{21}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}同步设计与验证}{23}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}同步控制设计条件分析}{23}{subsubsection.3.3.1}%
+\contentsline {paragraph}{系统方程及同步误差系统建立}{23}{section*.60}%
+\contentsline {paragraph}{非线性函数的约束条件推导}{23}{section*.61}%
+\contentsline {paragraph}{同步控制设计条件推导}{24}{section*.62}%
+\contentsline {subsection}{\numberline {3.4}同步效果仿真验证}{25}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}保密通信应用}{26}{subsection.3.5}%
+\contentsline {section}{\numberline {4}心得与体会}{26}{section.4}%
+\contentsline {paragraph}{倒立摆}{26}{section*.68}%
+\contentsline {paragraph}{蔡氏混沌电路}{27}{section*.69}%
+\contentsline {section}{\numberline {5}附录}{28}{section.5}%
+\contentsline {paragraph}{附录一：倒立摆程序}{28}{lstlisting.-4}%
+\contentsline {paragraph}{附录二：蔡氏混沌电路程序}{34}{lstlisting.-5}%
