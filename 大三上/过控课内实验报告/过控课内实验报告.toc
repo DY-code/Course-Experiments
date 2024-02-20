@@ -1,0 +1,58 @@
+\contentsline {section}{\numberline {1}实验一：对象特性分析与过程控制系统结构设计}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}实验目的}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}实验环境介绍}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}实验内容}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}过程控制硬件系统搭建}{2}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}水箱实验台}{2}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}PLC现场控制单元}{3}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}控制系统分析}{4}{subsubsection.1.4.3}%
+\contentsline {paragraph}{执行器的正反作用分析}{4}{section*.5}%
+\contentsline {paragraph}{被控过程正反作用分析}{5}{section*.6}%
+\contentsline {paragraph}{控制器正反作用选取}{5}{section*.7}%
+\contentsline {subsection}{\numberline {1.5}水箱对象动态特性分析及系统辨识}{5}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}水箱对象动态特性分析}{5}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}基于单容水箱液位的系统模型辨识}{6}{subsubsection.1.5.2}%
+\contentsline {paragraph}{辨识数据采集}{6}{section*.9}%
+\contentsline {paragraph}{基于MATLAB系统辨识工具箱进行水箱系统辨识}{6}{section*.10}%
+\contentsline {paragraph}{水箱系统辨识结果}{7}{section*.12}%
+\contentsline {paragraph}{虚拟PID调试}{8}{section*.15}%
+\contentsline {subsection}{\numberline {1.6}实验结论}{8}{subsection.1.6}%
+\contentsline {section}{\numberline {2}实验二：PID控制器设计与参数整定}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}实验目的}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}实验对象介绍}{10}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}实验内容}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}PID单回路控制系统设计}{10}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}PID控制器原理介绍}{10}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}主水箱液位单回路控制系统设计}{11}{subsubsection.2.4.2}%
+\contentsline {paragraph}{控制策略选取}{11}{section*.18}%
+\contentsline {subsection}{\numberline {2.5}PID参数整定}{11}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}PID参数整定方法}{11}{subsubsection.2.5.1}%
+\contentsline {paragraph}{临界比例度法}{11}{section*.20}%
+\contentsline {paragraph}{衰减曲线法}{12}{section*.22}%
+\contentsline {subsubsection}{\numberline {2.5.2}参数整定结果}{12}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}控制效果展示}{13}{subsubsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.6}实验结论}{13}{subsection.2.6}%
+\contentsline {section}{\numberline {3}实验三：串级控制系统设计与分析}{14}{section.3}%
+\contentsline {subsection}{\numberline {3.1}实验目的}{14}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}实验环境介绍}{14}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}实验内容}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}双容水箱液位串级控制系统设计}{14}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}串级控制系统简介}{14}{subsubsection.3.4.1}%
+\contentsline {paragraph}{串级控制系统结构和内外环作用分析}{14}{section*.26}%
+\contentsline {paragraph}{串级控制系统的特点}{14}{section*.28}%
+\contentsline {paragraph}{主副控制器作用分析}{15}{section*.29}%
+\contentsline {subsubsection}{\numberline {3.4.2}双容水箱液位串级控制系统设计}{15}{subsubsection.3.4.2}%
+\contentsline {paragraph}{控制策略选取}{15}{section*.31}%
+\contentsline {paragraph}{主、副控制器正反作用选取}{16}{section*.32}%
+\contentsline {subsubsection}{\numberline {3.4.3}串级控制系统参数整定}{16}{subsubsection.3.4.3}%
+\contentsline {paragraph}{逐步逼近法}{16}{section*.33}%
+\contentsline {paragraph}{两步整定法}{16}{section*.34}%
+\contentsline {subsubsection}{\numberline {3.4.4}串级控制系统参数整定结果}{17}{subsubsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.5}控制效果展示}{17}{subsubsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.5}主水箱液位-流量串级控制系统设计}{18}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}液位-流量串级控制系统设计}{18}{subsubsection.3.5.1}%
+\contentsline {paragraph}{控制策略选取}{19}{section*.38}%
+\contentsline {paragraph}{主、副控制器正反作用选取}{19}{section*.39}%
+\contentsline {subsubsection}{\numberline {3.5.2}参数整定结果}{19}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}控制效果展示}{20}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.6}实验结论}{20}{subsection.3.6}%
