@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {1}实习目的与要求}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}实习目的}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}实习要求}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}分工}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}系统介绍}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}系统结构}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}地学虚拟仪器：电法测量基本原理}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}硬件功能模块设计}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}隔离电路}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}MOSFET驱动电路}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}全桥驱动电路}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}供电电路}{6}{subsection.3.4}%
+\contentsline {section}{\numberline {4}软件功能模块设计}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}单片机实验平台介绍}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}信号波形发生}{7}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}原理介绍}{7}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}实验平台搭建}{7}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}实验程序框图}{8}{subsubsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3}ADC数据上传}{8}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}原理介绍}{8}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}实验平台搭建}{9}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}实验程序框图}{9}{subsubsection.4.3.3}%
+\contentsline {section}{\numberline {5}基于LabVIEW的上位机系统}{10}{section.5}%
+\contentsline {subsection}{\numberline {5.1}界面设计及功能介绍}{10}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}地学虚拟仪器发射模块}{10}{subsubsection.5.1.1}%
+\contentsline {paragraph}{界面设计}{10}{section*.17}%
+\contentsline {paragraph}{功能介绍}{10}{section*.19}%
+\contentsline {paragraph}{测试}{10}{section*.20}%
+\contentsline {subsubsection}{\numberline {5.1.2}地学虚拟仪器采集模块}{11}{subsubsection.5.1.2}%
+\contentsline {paragraph}{界面设计}{11}{section*.22}%
+\contentsline {paragraph}{功能介绍}{11}{section*.24}%
+\contentsline {paragraph}{测试}{11}{section*.25}%
+\contentsline {subsection}{\numberline {5.2}LabVIEW程序设计}{12}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}采集模块的实现}{12}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}发射模块的实现}{12}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}主界面的实现}{14}{subsubsection.5.2.3}%
+\contentsline {section}{\numberline {6}实习总结与心得}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}实习总结}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}心得与体会}{15}{subsection.6.2}%
