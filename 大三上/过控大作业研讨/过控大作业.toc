@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}内容介绍}{2}{section.1}%
+\contentsline {section}{\numberline {2}研究背景与研究动机}{2}{section.2}%
+\contentsline {section}{\numberline {3}研究内容}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}电熔镁砂熔炼过程中的电极电流控制}{3}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}电熔镁砂熔炼过程简介}{3}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}工艺过程分析}{3}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}控制对象特性分析与建模}{4}{subsubsection.3.1.3}%
+\contentsline {paragraph}{执行器与控制器特性分析}{4}{section*.3}%
+\contentsline {paragraph}{控制对象模型建立}{4}{section*.4}%
+\contentsline {subsection}{\numberline {3.2}带输出补偿的PID控制方法}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}带输出补偿的PID控制算法原理简介}{5}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}带输出补偿的PID控制算法实现步骤}{6}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}基于补偿控制的自适应模型预测控制系统设计}{8}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}研究对象}{8}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}基于高阶观测器的投影算法}{9}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}补偿控制与MPC优化问题}{9}{subsubsection.3.3.3}%
+\contentsline {paragraph}{补偿控制}{9}{section*.7}%
+\contentsline {paragraph}{MPC优化问题}{9}{section*.8}%
+\contentsline {subsubsection}{\numberline {3.3.4}基于补偿控制的自适应MPC算法设计步骤}{10}{subsubsection.3.3.4}%
+\contentsline {section}{\numberline {4}结果复现}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}基于带输出补偿的PID控制算法的仿真验证}{11}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}被控对象仿真模型}{11}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}控制器参数设定}{11}{subsubsection.4.1.2}%
+\contentsline {paragraph}{控制目标}{11}{section*.9}%
+\contentsline {paragraph}{控制器参数设定}{11}{section*.10}%
+\contentsline {subsubsection}{\numberline {4.1.3}仿真结果和分析}{12}{subsubsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.2}基于补偿控制的自适应MPC算法的仿真验证}{14}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}被控对象仿真模型与参数设定}{14}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}仿真结果}{14}{subsubsection.4.2.2}%
+\contentsline {section}{\numberline {5}改进}{16}{section.5}%
