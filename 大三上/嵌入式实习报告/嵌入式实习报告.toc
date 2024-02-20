@@ -1,0 +1,54 @@
+\contentsline {section}{\numberline {1}第一部分：Jetson Nano开发板的探索}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Jetson Nano开发板硬件与软件模块的探索}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Linux操作系统Ubuntu的熟悉使用}{2}{subsubsection.1.1.1}%
+\contentsline {paragraph}{Ubuntu简介}{2}{section*.2}%
+\contentsline {paragraph}{系统换源}{2}{section*.3}%
+\contentsline {paragraph}{文件管理与命令行的使用}{2}{section*.4}%
+\contentsline {paragraph}{软件安装与卸载}{3}{section*.6}%
+\contentsline {paragraph}{远程访问}{3}{section*.7}%
+\contentsline {paragraph}{其他}{3}{section*.9}%
+\contentsline {subsubsection}{\numberline {1.1.2}AI视觉算法}{4}{subsubsection.1.1.2}%
+\contentsline {paragraph}{YOLOv5}{4}{section*.11}%
+\contentsline {paragraph}{jetson-inference: 物品检测模型SSD}{4}{section*.12}%
+\contentsline {paragraph}{人脸检测：face\_recognition}{5}{section*.15}%
+\contentsline {subsubsection}{\numberline {1.1.3}硬件部件}{5}{subsubsection.1.1.3}%
+\contentsline {paragraph}{Jetson.GPIO库}{5}{section*.16}%
+\contentsline {paragraph}{CSI摄像头}{6}{section*.17}%
+\contentsline {paragraph}{对开发板上GPU的探索}{7}{section*.18}%
+\contentsline {subsection}{\numberline {1.2}实习心得}{7}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}遇到问题及解决}{7}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}收获与感想}{8}{subsubsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.3}思考并回答以下问题}{8}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Jetson Nano这套板子与实验所用的板子的异同有哪些？}{8}{subsubsection.1.3.1}%
+\contentsline {paragraph}{相同之处}{8}{section*.19}%
+\contentsline {paragraph}{不同之处}{8}{section*.20}%
+\contentsline {subsubsection}{\numberline {1.3.2}本开发板基于Linux之上开发AI算法，对底层硬件需要了解吗？}{9}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}如果前期对ARM硬件有一定的了解，对Linux之上的开发有帮助吗？帮助在哪里？}{9}{subsubsection.1.3.3}%
+\contentsline {section}{\numberline {2}第二部分：嵌入式系统设计及实现--基于人脸识别的智能门锁与监控系统}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}系统设计及实现}{10}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}系统介绍}{10}{subsubsection.2.1.1}%
+\contentsline {paragraph}{实现的功能}{10}{section*.21}%
+\contentsline {paragraph}{有待完善的功能}{10}{section*.22}%
+\contentsline {paragraph}{设想的使用场景}{10}{section*.23}%
+\contentsline {subsubsection}{\numberline {2.1.2}系统实现}{10}{subsubsection.2.1.2}%
+\contentsline {paragraph}{UI界面}{10}{section*.24}%
+\contentsline {paragraph}{摄像头调用和图像处理}{11}{section*.26}%
+\contentsline {paragraph}{人脸识别：face\_recognition}{12}{section*.28}%
+\contentsline {paragraph}{人脸信息登记}{12}{section*.30}%
+\contentsline {paragraph}{实时人脸识别}{13}{section*.31}%
+\contentsline {subsubsection}{\numberline {2.1.3}测试效果展示}{13}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}实习心得}{15}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}遇到问题及解决}{15}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}收获与感想}{15}{subsubsection.2.2.2}%
+\contentsline {paragraph}{团队协作与沟通}{15}{section*.36}%
+\contentsline {paragraph}{嵌入式开发流程的学习和了解}{15}{section*.37}%
+\contentsline {paragraph}{创新思维的培养}{15}{section*.38}%
+\contentsline {paragraph}{兴趣的培养}{15}{section*.39}%
+\contentsline {subsection}{\numberline {2.3}思考以下问题并回答}{16}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}你感觉开发板与嵌入式课程的联系有哪些？}{16}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Jetson Nano是否适合拿来作为实习用？为什么？}{16}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}有哪些内容是你希望老师在课堂上教授的？}{16}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}有哪些内容是实习结束后，你想要弄明白而没有弄明白的？}{17}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}如果采纳这个开发板作为实习板，你觉得还需要增加哪些实习内容？}{17}{subsubsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.6}你觉得针对这个开发板，希望老师们能够提供怎样的支持？}{17}{subsubsection.2.3.6}%
+\contentsline {section}{\numberline {3}实习意见建议}{17}{section.3}%
